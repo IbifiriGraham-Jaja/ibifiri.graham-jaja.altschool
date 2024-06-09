@@ -6,10 +6,10 @@ I'm a Beginner in software Engineering, studying at Alt school Africa
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: she/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
+- 🌱 I’m currently learning JavaScript, Reactjs,Typescript and Vue.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern).
+- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern).
 - 📫 You can contact me by emailing fayegraham3@gmail.com.
 - 
 - IbifiriGraham-Jaja/IbifiriGraham-Jaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
